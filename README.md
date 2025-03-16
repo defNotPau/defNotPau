@@ -17,7 +17,7 @@
  - ⛏️ Minecraft
  - 🌐 Webpages
 
-<a href="https://www.youtube.com/watch?v=kKFF-2XMeLk"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=GORsp0gc2Nc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Uh... how am I supposed to title this???
 
