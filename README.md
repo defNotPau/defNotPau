@@ -7,14 +7,12 @@
  hey! i'm pau
  <a href="https://modrinth.com/user/defNotPau"><img src="https://modrinth.com/favicon.ico" height="40"></a>
 </h1>
- 
+
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-- 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest)
-- 🌱 I’m currently learning formally Java (as my experience if fully from minecraft-related stuff)
-
+ - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest)
+ - 🌱 I’m currently learning formally Java (as my experience if fully from minecraft-related stuff)
+ 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### so a bit about me... i kinda like coding, even when half of the time I can't bear seeing lines :)
