@@ -10,9 +10,10 @@
 
 </div>
 
- - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest) & [Silent](https://github.com/defNotPau/Silent)
+ - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest) & a new project >:)
  - 🌱 I’m currently learning formally Java (as my experience if fully from minecraft-related stuff)
- 
+
+ <!-- [Silent](https://github.com/defNotPau/Silent) -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### so a bit about me... i kinda like coding, even when half of the time I can't bear seeing lines :)
