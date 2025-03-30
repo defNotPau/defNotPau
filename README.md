@@ -10,7 +10,7 @@
 
 </div>
 
- - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest) & a new project >:)
+ - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest)
  - 🌱 I’m currently learning formally Java (as my experience if fully from minecraft-related stuff)
 
  <!-- [Silent](https://github.com/defNotPau/Silent) -->
