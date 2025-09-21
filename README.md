@@ -11,14 +11,14 @@
 </div>
 
  - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest)
- - 🌱 I’m currently learning formally Java (as my experience if fully from minecraft-related stuff)
+ - 🌱 I’m currently learning react and some frontend/backend stuff
 
  <!-- [Silent](https://github.com/defNotPau/Silent) -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### so a bit about me... i kinda like coding, even when half of the time I can't bear seeing lines :)
 ### Some things I love doing code for:
- - 🧮 Math (specially things I've struggled with when learning in school)
+ - 🧮 Math
  - ⛏️ Minecraft
  - 🌐 Webpages
 
