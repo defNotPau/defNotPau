@@ -10,8 +10,8 @@
 
 </div>
 
- - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest)
- - 🌱 I’m currently learning react and some frontend/backend stuff
+ - 🔭 I’m currently working on [SimpleDeathChest](https://modrinth.com/plugin/simpledeathchest) and some other stuff
+ - 🌱 I’m currently learning Monogame
 
  <!-- [Silent](https://github.com/defNotPau/Silent) -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -20,7 +20,7 @@
 ### Some things I love doing code for:
  - 🧮 Math
  - ⛏️ Minecraft
- - 🌐 Webpages
+ - 🌐 Anything i feel like coding :)
 
 <a href="https://www.youtube.com/watch?v=GORsp0gc2Nc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
