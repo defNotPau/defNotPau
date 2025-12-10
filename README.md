@@ -26,11 +26,14 @@
 
 ## Uh... how am I supposed to title this???
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defNotPau&theme=tokyonight&layout=compact" />
-</p>
+### Languages :D
+ - I'm mostly a Java programmer (thanks to minecraft)
+ - I can also use C#... probably
+ - I don't like python all that much
+ - I like Javascript but Typescript is a bit better in my book
 
 ### Besides coding languages...
  - 🇺🇸 I can speak english
  - 🇨🇴 El español es mi idioma materno
+ - 🇪🇸 Yo no parlo Català (vaig néixer a Barcelona) (me siento mal por poner la bandera de españa)
  - 🇯🇵 日本語が好き、勉強してる。少し分かれる　:)
